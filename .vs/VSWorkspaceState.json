@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\VirtualPetApp",
+    "\\Local settings (.vs)\\VirtualPetApp\\v17"
   ],
-  "PreviewInSolutionExplorer": false
+  "PreviewInSolutionExplorer": true
 }
